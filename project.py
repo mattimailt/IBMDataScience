@@ -1,3 +1,5 @@
+#This is the code of my final CS50P project
+#It is a mortgage amortization calculator
 from tabulate import tabulate
 from pyfiglet import Figlet
 import datetime
