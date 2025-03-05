@@ -1,6 +1,2 @@
-# IBMDataScience
-just a test repository
+IBMDataScience
 
-testrepo 
-testrepo
-Just added another line
